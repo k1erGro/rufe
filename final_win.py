@@ -7,7 +7,7 @@ from PyQt5.QtWidgets import (
        QPushButton, QLabel, QListWidget, QLineEdit)
 
 from inst import *
-# sdasdasdasasads
+# sdasdasdasasadsgrrgrr
 class FinalWin(QWidget):
     def __init__(self, exp):
         super().__init__()
